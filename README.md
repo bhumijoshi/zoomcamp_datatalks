@@ -38,6 +38,7 @@ All course materials are freely available for independent study. Follow these st
 ## Syllabus Overview
 The course consists of structured modules, hands-on workshops, and a final project to reinforce your learning.
 
+
 ### **Prerequisites**
 To get the most out of this course, you should have:
 - Basic coding experience
